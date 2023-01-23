@@ -245,6 +245,15 @@ button:focus {
   outline: 5px auto -webkit-focus-ring-color;
 }
 
+.Thankyoupage {
+  color:#05a4d4;
+  margin-top:10%;
+  margin-bottom: 10%;
+  text-align: center;
+
+}
+
+
 input,
 button,
 select,
